@@ -9,7 +9,7 @@ WALK A LIFE is a project at the intersection of technology, culture, and educati
 WALK A LIFE will conbine Open Oral History Testimonials with AI Technology to create GenAI Personal, living the collective life of all the people that contributers story.
 
 ### In this repo, will be hosted:
-1. A deployable applications that collects the stories (Fullstack application)
+1. A deployable application that collects the stories (Fullstack application)
 2. The stories that will be used in the first phase (Open-Data Repository)
 3. A library that will support integration with Gendox. and does all the state managments of a stoty:
    - Load the AI Agent Role as descibed by an Artistic Director
